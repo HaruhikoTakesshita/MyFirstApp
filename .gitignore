@@ -12,12 +12,10 @@
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1"># Xcode user-specific settings</span></p>
-<p class="p1"><span class="s1">*.xcuserstate</span></p>
-<p class="p1"><span class="s1">xcuserdata/</span></p>
 <p class="p1"><span class="s1"># macOS system files</span></p>
-<p class="p1"><span class="s1">.DS_Store</span></p>
+<p class="p1"><span class="s1">*.DS_Store</span></p>
 <p class="p1"><span class="s1"># Xcode user-specific files</span></p>
-<p class="p1"><span class="s1">MyFirstApp/MyFirstApp.xcodeproj/project.xcworkspace/xcuserdata/</span></p>
+<p class="p1"><span class="s1">xcuserdata/</span></p>
+<p class="p1"><span class="s1">*.xcuserstate</span></p>
 </body>
 </html>
